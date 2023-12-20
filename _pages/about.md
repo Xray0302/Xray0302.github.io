@@ -45,7 +45,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 
 **Rui Xu**, Xingwei Zhao, Feng Liu, Bo Tao
 
-(https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=-WpYwowAAAAJ&citation_for_view=-WpYwowAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='-WpYwowAAAAJ:u5HHmVD_uO8C'></span></strong>
+[Link](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=-WpYwowAAAAJ&citation_for_view=-WpYwowAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='-WpYwowAAAAJ:u5HHmVD_uO8C'></span></strong>
 - xxx. 
 </div>
 </div>
@@ -54,13 +54,5 @@ My research primarily focuses on robot calibration, measurement, and control tec
 - *2023.12*: I release a modern and responsive academic personal homepage template. Welcome to STAR and FORK!
 
 
+# 💬 Invited Talks
 
-
-
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
