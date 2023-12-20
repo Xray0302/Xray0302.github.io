@@ -28,8 +28,17 @@ My research primarily focuses on robot calibration, measurement, and control tec
 # 🔥 News
 - *2023.12*: I release a modern and responsive academic personal homepage template. Welcome to STAR and FORK!
 
-# 📝 Publications 
+# 🎉 Honors and Awards
+- *2023.10* China National Scholarship 
+- *2021.06* Outstanding Graduate of HUST 
+- *2020.10* Outstanding Individual in Innovation and Entrepreneurship Activities of HUST
 
+# 🎖️ Competitions
+- *2020* The 14th National College Student Intelligent Vehicle Competition(Videos)    (*National first prize*)
+- *2021* The 15th National College Student Intelligent Vehicle Competition(Videos)    (*National first prize*)
+- *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*National first prize* & *Huawei Special First Prize*)
+
+# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,15 +52,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 </div>
 
 
-# 🎉 Honors and Awards
-- *2023.10* China National Scholarship 
-- *2021.06* Outstanding Graduate of HUST 
-- *2020.10* Outstanding Individual in Innovation and Entrepreneurship Activities of HUST
 
-# 🎖️ Competitions
-- *2020* The 14th National College Student Intelligent Vehicle Competition(Videos)    (*National first prize*)
-- *2021* The 15th National College Student Intelligent Vehicle Competition(Videos)    (*National first prize*)
-- *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*National first prize* & *Huawei Special First Prize*)
 
 
 
