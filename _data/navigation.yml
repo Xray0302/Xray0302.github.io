@@ -11,12 +11,13 @@ main:
 
   # - title: "Competitions"
   #   url: "/#-Competitions"
-
+  - title: "Competitions"
+    url: "/#-competitions"
+    
   - title: "Publications"
     url: "/#-publications"
    
-  - title: "Competitions"
-    url: "/#-competitions"
+
 
   - title: "News"
     url: "/#-news"
