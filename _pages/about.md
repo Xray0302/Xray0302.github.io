@@ -15,10 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<!-- <span class='anchor' id='about-me'></span> -->
+<span class='anchor' id='about-me'></span>
 
 # 😁 About me
-- My name is Rui Xu, a master student majoring in mechanical engineering at State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology (HUST) in China.
+My name is Rui Xu, a master student majoring in mechanical engineering at State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology (HUST) in China.
 My research primarily focuses on robot calibration, measurement, and control techniques, particularly in high-precision vision-guided assembly strategies for industrial robots used in large components such as aircraft and satellites. I explore vision image processing algorithms, point cloud matching algorithms, and cooperative planning, control, and operation of dual-arm robots. Through my research, I aim to enhance robots' capabilities in perception, recognition, and operation for more efficient and reliable solutions in industrial applications and automation. 
 
 
