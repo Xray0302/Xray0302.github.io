@@ -28,15 +28,22 @@ My research primarily focuses on robot calibration, measurement, and control tec
 
 
 # 🎉 Honors and Awards
-- *2023.10* China National Scholarship 
-- *2021.06* Outstanding Graduate of HUST 
-- *2020.10* Outstanding Individual in Innovation and Entrepreneurship Activities of HUST
-
+- *2023* China National Scholarship 
+- *2023* Merit Postgraduate of HUST
+- *2023* First-class Scholarship for Postgraducates of HUST
+- *2022* Second-class Scholarship for Postgraducates of HUST
+- *2021* Outstanding Graduate of HUST 
+- *2021* First-class Scholarship for Postgraducates of HUST
+- *2020* Outstanding Individual in University Students Innovation and Entrepreneurship Project of HUST
+- *2019* Scholar for Scientific and Technological Innovation of HUST
+- *2018* Scholar for Scientific and Technological Innovation of HUST
 
 # 🏆 Competitions
-- *2020* The 14th National College Student Intelligent Vehicle Competition(Videos)    (*National first prize*)
-- *2021* The 15th National College Student Intelligent Vehicle Competition(Videos)    (*National first prize*)
-- *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*National first prize* & *Huawei Special First Prize*)
+- *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*"Modeling Star" nomination* & *National First-class Prize* & *Huawei Special First Prize*)
+- *2022* The third Huazhong University of Science and Technology Graduate Robot Innovation Design Competition (*First-class Prize*)
+- *2021* The 15th National College Student Intelligent Vehicle Competition(Videos)    (*National First-class Prize*)
+- *2020* The 14th National College Student Intelligent Vehicle Competition(Videos)    (*National First-class Prize*)
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2023</div><img src='images/TIM2023.png' alt="sym" width="100%"></div></div>
