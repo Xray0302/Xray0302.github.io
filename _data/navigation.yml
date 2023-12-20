@@ -19,11 +19,5 @@ main:
     url: "/#-news"
 
   - title: "Competition"
-    url: "/#-Competition"
+    url: "/#Competition"
 
-
-  - title: "er"
-    url: "/#-er"
-
-  - title: "Internship"
-    url: "/#internship"
