@@ -43,7 +43,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 </div>
 
 
-# 🎖 Honors and Awards
+# 🎉 Honors and Awards
 - *2023.10* China National Scholarship 
 - *2021.06* Outstanding Graduate of HUST 
 - *2020.10* Outstanding Individual in Innovation and Entrepreneurship Activities of HUST
