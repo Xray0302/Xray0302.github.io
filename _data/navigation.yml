@@ -9,8 +9,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Competitions"
-    url: "/#-Competitions"
+  # - title: "Competitions"
+  #   url: "/#-Competitions"
 
   - title: "Publications"
     url: "/#-publications"
@@ -18,12 +18,12 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Competitions"
-    url: "/#-Competitions"
+  - title: "Competition"
+    url: "/#-Competition"
 
 
   - title: "er"
     url: "/#-er"
-    
-  # - title: "Internships"
-  #   url: "/#-internships"
+
+  - title: "Internship"
+    url: "/#-internship"

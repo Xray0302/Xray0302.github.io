@@ -57,3 +57,6 @@ My research primarily focuses on robot calibration, measurement, and control tec
 # 💬 Invited Talk
 
 # er
+
+# Internship
+- ss
