@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "The best is yet to come :) "
+repository               : "Xray0302/Xray0302-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rui Xu"
   avatar           : "images/avatar.png"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : "robots, music and sleep"
   location         : "Hubei, China"
   employer         :
   pubmed           : 
