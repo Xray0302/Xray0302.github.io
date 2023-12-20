@@ -3,7 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
- 
   - title: "Educations"
     url: "/#-educations"
 
@@ -16,7 +15,7 @@ main:
   - title: "Publications"
     url: "/#-publications"
    
- - title: "News"
+  - title: "News"
     url: "/#-news"
 
   # - title: "Invited Talks"

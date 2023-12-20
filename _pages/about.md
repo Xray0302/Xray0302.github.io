@@ -38,7 +38,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 - *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*National first prize* & *Huawei Special First Prize*)
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2023</div><img src='images/TIM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Precision Monocular Vision Guided Robotic Assembly Based on Local Pose Invariance](https://ieeexplore.ieee.org/abstract/document/10309977)
