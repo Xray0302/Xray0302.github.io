@@ -15,9 +15,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
    
+  - title: "Competitions"
+    url: "/#-competitions"
+
   - title: "News"
     url: "/#-news"
-
-  - title: "Competitions"
-    url: "/#competitions"
-
