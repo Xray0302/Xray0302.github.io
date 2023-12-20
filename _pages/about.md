@@ -33,7 +33,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 - *2020.10* Outstanding Individual in Innovation and Entrepreneurship Activities of HUST
 
 
-# 🎖️ Competitions
+# 🎖️Competitions
 - *2020* The 14th National College Student Intelligent Vehicle Competition(Videos)    (*National first prize*)
 - *2021* The 15th National College Student Intelligent Vehicle Competition(Videos)    (*National first prize*)
 - *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*National first prize* & *Huawei Special First Prize*)
