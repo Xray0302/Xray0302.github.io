@@ -51,6 +51,6 @@ My research primarily focuses on robot calibration, measurement, and control tec
 </div>
 
 # 🔥 News
-- *2023.12*: I release a modern and responsive academic personal homepage template. Welcome to STAR and FORK!
+- *2023.12*:Welcome! I have built an academic personal homepage to introduce myself. 
 
 
