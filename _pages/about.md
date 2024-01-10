@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- # 😁 About me -->
-My name is Rui Xu, a master student majoring in mechanical engineering at State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology (HUST) in China.
+
+Hi, My name is Rui Xu, a last year master's student (by research) majoring in mechanical engineering at [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in China.
 My research primarily focuses on robot calibration, measurement, and control techniques, particularly in high-precision vision-guided assembly strategies for industrial robots used in large components such as aircraft and satellites. I explore vision image processing algorithms, point cloud matching algorithms, and cooperative planning, control, and operation of dual-arm robots. Through my research, I aim to enhance robots' capabilities in perception, recognition, and operation for more efficient and reliable solutions in industrial applications and automation. 
 
 
 # 📖 Educations
- - *2021.9-now*, M.S. in Mechanical Engineering, Huazhong University of Science and Technology, Supervisor: Prof. Bo Tao.
+ - *2021.9-now*, M.S. in Mechanical Engineering, Huazhong University of Science and Technology, Supervisor: [Prof. Bo Tao](https://mse.hust.edu.cn/info/1142/1328.htm).
  - *2017.9-2021.6*, B.S. in Mechanical Engineering and Automation, Huazhong University of Science and Technology
 
 
@@ -40,7 +41,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 
 # 🏆 Competitions
 - *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*"Modeling Star" nomination* & *National First-class Prize* & *Huawei Special First Prize*)
-- *2022* The third Huazhong University of Science and Technology Graduate Robot Innovation Design Competition (*First-class Prize*)
+- *2022* The 3rd Huazhong University of Science and Technology Graduate Robot Innovation Design Competition (*First-class Prize*)
 - *2021* The 15th National College Student Intelligent Vehicle Competition(Videos)    (*National First-class Prize*)
 - *2020* The 14th National College Student Intelligent Vehicle Competition(Videos)    (*National First-class Prize*)
 
@@ -53,8 +54,8 @@ My research primarily focuses on robot calibration, measurement, and control tec
 
 **Rui Xu**, Xingwei Zhao, Feng Liu, Bo Tao
 
-[Link](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=-WpYwowAAAAJ&citation_for_view=-WpYwowAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='-WpYwowAAAAJ:u5HHmVD_uO8C'></span></strong>
-- xxx. 
+[Google Link](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=-WpYwowAAAAJ&citation_for_view=-WpYwowAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='-WpYwowAAAAJ:u5HHmVD_uO8C'></span></strong>
+<!-- - xxx.  -->
 </div>
 </div>
 
