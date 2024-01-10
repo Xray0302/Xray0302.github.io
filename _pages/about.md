@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- # 😁 About me -->
 
-Hi, My name is Rui Xu, a last year master's student (by research) majoring in mechanical engineering at [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in China.
+Hi, My name is Rui Xu, a last year master's student (by research) majoring in mechanical engineering at [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in China.  
 My research primarily focuses on robot calibration, measurement, and control techniques, particularly in high-precision vision-guided assembly strategies for industrial robots used in large components such as aircraft and satellites. I explore vision image processing algorithms, point cloud matching algorithms, and cooperative planning, control, and operation of dual-arm robots. Through my research, I aim to enhance robots' capabilities in perception, recognition, and operation for more efficient and reliable solutions in industrial applications and automation. 
 
 
@@ -33,11 +33,13 @@ My research primarily focuses on robot calibration, measurement, and control tec
 - *2023* Merit Postgraduate of HUST
 - *2023* First-class Scholarship for Postgraducates of HUST
 - *2022* Second-class Scholarship for Postgraducates of HUST
-- *2021* Outstanding Graduate of HUST 
 - *2021* First-class Scholarship for Postgraducates of HUST
+- *2021* Freshmen scholarship for Postgraducates of HUST
+- *2021* Outstanding Graduate of HUST
 - *2020* Outstanding Individual in University Students Innovation and Entrepreneurship Project of HUST
-- *2019* Scholar for Scientific and Technological Innovation of HUST
-- *2018* Scholar for Scientific and Technological Innovation of HUST
+- *2019* Scholarship for Scientific and Technological Innovation of HUST
+- *2018* Scholarship for Scientific and Technological Innovation of HUST
+- *2017* Self-improvement scholarship
 
 # 🏆 Competitions
 - *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*"Modeling Star" nomination* & *National First-class Prize* & *Huawei Special First Prize*)
