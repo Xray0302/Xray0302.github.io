@@ -30,7 +30,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 
 
 # 🎉 Honors and Awards
-- *2024* CUHK Vice-Chancellor’s PhD Scholarship
+- *2024* CUHK [Vice-Chancellor’s PhD Scholarship](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships)
 - *2023* China National Scholarship 
 - *2023* Merit Postgraduate of HUST
 - *2023* First-class Scholarship for Postgraducates of HUST
@@ -64,7 +64,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 </div>
 
 # 🔥 News
-- *2024.7*:I will join CUHK(the Chinese University of Hong Kong) on 8.1 to pursue a PhD degree, which is expected to take 4 years
-- *2024.6*:I obtained a Master's degree in Mechanical Engineering and successfully graduated from HUST(Huazhong University of Science and Technology).
+- *2024.7*:I will join the Chinese University of Hong Kong on 8.1 to pursue a PhD degree, which is expected to take 4 years.
+- *2024.6*:I successfully obtained the Master's degree in Mechanical Engineering and graduated from HUST.
 - *2023.12*:Welcome! I have built an academic personal homepage to introduce myself. 
 
