@@ -64,7 +64,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 </div>
 
 # 🔥 News
-- *2024.7*:I will join the Chinese University of Hong Kong on 8.1 to pursue a PhD degree, which is expected to take 4 years.
+- *2024.7*:I will join CUHK on 1st Aug as a PhD student, which is expected to take 4 years.
 - *2024.6*:I successfully obtained the Master's degree in Mechanical Engineering and graduated from HUST.
 - *2023.12*:Welcome! I have built an academic personal homepage to introduce myself. 
 
