@@ -24,11 +24,13 @@ My research primarily focuses on robot calibration, measurement, and control tec
 
 
 # 📖 Educations
- - *2021.9-now*, M.S. in Mechanical Engineering, Huazhong University of Science and Technology, Supervisor: [Prof. Bo Tao](https://mse.hust.edu.cn/info/1142/1328.htm).
+ - *2024.8-now*, Ph.D. in Biomedical Engineering, The Chinese University of Hong Kong, Supervisor: [Prof. Raymond Kai-yu Tong](https://www.bme.cuhk.edu.hk/kytong/).
+ - *2021.9-2024.6*, M.S. in Mechanical Engineering, Huazhong University of Science and Technology, Supervisor: [Prof. Bo Tao](https://mse.hust.edu.cn/info/1142/1328.htm).
  - *2017.9-2021.6*, B.S. in Mechanical Engineering and Automation, Huazhong University of Science and Technology
 
 
 # 🎉 Honors and Awards
+- *2024* CUHK Vice-Chancellor’s PhD Scholarship
 - *2023* China National Scholarship 
 - *2023* Merit Postgraduate of HUST
 - *2023* First-class Scholarship for Postgraducates of HUST
@@ -62,5 +64,7 @@ My research primarily focuses on robot calibration, measurement, and control tec
 </div>
 
 # 🔥 News
+- *2024.7*:I will join CUHK(the Chinese University of Hong Kong) on 8.1 to pursue a PhD degree, which is expected to take 4 years
+- *2024.6*:I obtained a Master's degree in Mechanical Engineering and successfully graduated from HUST(Huazhong University of Science and Technology).
 - *2023.12*:Welcome! I have built an academic personal homepage to introduce myself. 
 
