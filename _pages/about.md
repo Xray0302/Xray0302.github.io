@@ -19,8 +19,9 @@ redirect_from:
 
 <!-- # 😁 About me -->
 
-Hi, My name is Rui Xu, a last year master's student (by research) majoring in mechanical engineering at [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in China.  
-My research primarily focuses on robot calibration, measurement, and control techniques, particularly in high-precision vision-guided assembly strategies for industrial robots used in large components such as aircraft and satellites. I explore vision image processing algorithms, point cloud matching algorithms, and cooperative planning, control, and operation of dual-arm robots. Through my research, I aim to enhance robots' capabilities in perception, recognition, and operation for more efficient and reliable solutions in industrial applications and automation. 
+Hi, my name is Xu Rui. I am currently a first-year PhD student in Biomedical Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), under the supervision of [Raymond Kai-Yu TONG](https://www.bme.cuhk.edu.hk/kytong/Profile.html)(AIMBE Fellow). Prior to this, I completed my undergraduate and master's studies (supervised by Prof. Bo Tao, Changjiang Scholar Chair Professor) at [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in China, majoring in Mechanical Engineering.
+
+My current research focuses on intention-driven robotic perception, recognition, and manipulation, with the goal of applying this technology to upper limb rehabilitation robots to assist stroke patients in achieving more efficient training. I am also interested in robotic calibration, measurement, and control technologies, particularly in high-precision vision-guided assembly strategies for industrial robots used in large components such as aircraft and satellites. Through my research, I aim to enhance the capabilities of robots in perception, recognition, and manipulation to achieve more efficient and reliable applications and solutions.
 
 
 # 📖 Educations
@@ -39,10 +40,10 @@ My research primarily focuses on robot calibration, measurement, and control tec
 - *2021* Freshmen scholarship for Postgraducates of HUST
 - *2021* Outstanding Graduate of HUST
 - *2020* Outstanding Individual in University Students Innovation and Entrepreneurship Project of HUST
-- *2019* Scholarship for Scientific and Technological Innovation of HUST
-- *2018* Scholarship for Scientific and Technological Innovation of HUST
+- *2018&2019* Scholarship for Scientific and Technological Innovation of HUST
 - *2017* Self-improvement scholarship
 
+<!-- - *2019* Scholarship for Scientific and Technological Innovation of HUST -->
 # 🏆 Competitions
 - *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*"Modeling Star" nomination* & *National First-class Prize* & *Huawei Special First Prize*)
 - *2022* The 3rd Huazhong University of Science and Technology Graduate Robot Innovation Design Competition (*First-class Prize*)
