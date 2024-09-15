@@ -36,7 +36,7 @@ My current research focuses on intention-driven robotic perception, recognition,
 - *2023* Merit Postgraduate of HUST
 - *2023* First-class Scholarship for Postgraducates of HUST
 - *2022* Second-class Scholarship for Postgraducates of HUST
-- *2021* First-class Scholarship for Postgraducates of HUST
+- *2021-2023* First-class Scholarship for Postgraducates of HUST
 - *2021* Freshmen scholarship for Postgraducates of HUST
 - *2021* Outstanding Graduate of HUST
 - *2020* Outstanding Individual in University Students Innovation and Entrepreneurship Project of HUST
@@ -65,7 +65,7 @@ My current research focuses on intention-driven robotic perception, recognition,
 </div>
 
 # 🔥 News
-- *2024.7*:I will join CUHK on 1st Aug as a PhD student, which is expected to take 4 years.
-- *2024.6*:I successfully obtained the Master's degree in Mechanical Engineering and graduated from HUST.
-- *2023.12*:Welcome! I have built an academic personal homepage to introduce myself. 
+- *2024.7*:I will join CUHK on 1st Aug as a PhD student.
+- *2024.6*:I graduated from HUST and obtained the master's degree in Mechanical Engineering.
+- *2023.12*:Welcome! I have built a personal homepage. 
 
