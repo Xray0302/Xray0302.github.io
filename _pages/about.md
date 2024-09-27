@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, my name is Xu Rui. I am currently a first-year PhD student in Biomedical Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), under the supervision of [Prof. Raymond Kai-Yu TONG](https://www.bme.cuhk.edu.hk/kytong/Profile.html)(AIMBE Fellow). Prior to this, I completed my undergraduate and master's studies (supervised by [Prof. Bo Tao](http://mse.hust.edu.cn/info/1142/1328.htm), Changjiang Scholar Chair Professor) at [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in China, majoring in Mechanical Engineering.
 
-My current research focuses on intention-driven robotic perception, recognition, and manipulation, with the goal of applying this technology to upper limb rehabilitation robots to assist stroke patients in achieving more efficient training. I am also interested in robotic calibration, measurement, and control technologies, particularly in high-precision vision-guided assembly strategies for industrial robots used in large components such as aircraft and satellites. Through my research, I aim to enhance the capabilities of robots in perception, recognition, and manipulation to achieve more efficient and reliable applications and solutions.
+My current research focuses on human intention recognition, intention-driven robotic perception and manipulation, with the goal of applying this technology to upper limb rehabilitation robots to assist stroke patients in achieving efficient training. I am also interested in robotic calibration, measurement, and control technologies. Through my research, I aim to enhance the capabilities of robots in perception, recognition, and manipulation to achieve more efficient and reliable applications and solutions.
 
 
 # 📖 Educations
@@ -34,9 +34,9 @@ My current research focuses on intention-driven robotic perception, recognition,
 - *2024* CUHK [Vice-Chancellor’s PhD Scholarship](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships)
 - *2023* China National Scholarship 
 - *2023* Merit Postgraduate of HUST
-- *2023* First-class Scholarship for Postgraducates of HUST
-- *2022* Second-class Scholarship for Postgraducates of HUST
-- *2021-2023* First-class Scholarship for Postgraducates of HUST
+<!-- - *2023* First-class Scholarship for Postgraducates of HUST -->
+<!-- - *2022* Second-class Scholarship for Postgraducates of HUST -->
+- *2021-2023* Scholarship for Postgraducates of HUST
 - *2021* Freshmen scholarship for Postgraducates of HUST
 - *2021* Outstanding Graduate of HUST
 - *2020* Outstanding Individual in University Students Innovation and Entrepreneurship Project of HUST
