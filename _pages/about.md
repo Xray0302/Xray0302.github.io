@@ -40,7 +40,7 @@ My current research focuses on human intention recognition, motion prediction, i
 - *2021* Freshmen scholarship for Postgraducates of HUST
 - *2021* Outstanding Graduate of HUST
 - *2020* Outstanding Individual in University Students Innovation and Entrepreneurship Project of HUST
-- *2018&2019* Scholarship for Scientific and Technological Innovation of HUST
+- *2018-2019* Scholarship for Scientific and Technological Innovation of HUST
 - *2017* Self-improvement scholarship
 
 <!-- - *2019* Scholarship for Scientific and Technological Innovation of HUST -->
