@@ -45,10 +45,10 @@ My current research focuses on human intention recognition, motion prediction, i
 
 <!-- - *2019* Scholarship for Scientific and Technological Innovation of HUST -->
 # 🏆 Competitions
-- *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling   (*"Modeling Star" nomination* & *National First-class Prize* & *Huawei Special First Prize*)
+- *2023* The 19th “Huawei Cup” China Post-graduate Mathematical Contest in Modeling ([News](https://mp.weixin.qq.com/s/INGY2kQY8lkLGqcpLfj6cA))   (*"Modeling Star" nomination* & *National First-class Prize* & *Huawei Special First Prize*)
 - *2022* The 3rd Huazhong University of Science and Technology Graduate Robot Innovation Design Competition (*First-class Prize*)
-- *2021* The 15th National College Student Intelligent Vehicle Competition(Videos)    (*National First-class Prize*)
-- *2020* The 14th National College Student Intelligent Vehicle Competition(Videos)    (*National First-class Prize*)
+- *2021* The 15th National College Student Intelligent Vehicle Competition    (*National First-class Prize*)
+- *2020* The 14th National College Student Intelligent Vehicle Competition   (*National First-class Prize*)
 
 
 # 📝 Publications 
